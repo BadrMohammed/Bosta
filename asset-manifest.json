@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Bosta/static/css/main.dd7e1c48.chunk.css",
+    "main.js": "/Bosta/static/js/main.b4e6a67a.chunk.js",
+    "main.js.map": "/Bosta/static/js/main.b4e6a67a.chunk.js.map",
+    "runtime-main.js": "/Bosta/static/js/runtime-main.4fb5030f.js",
+    "runtime-main.js.map": "/Bosta/static/js/runtime-main.4fb5030f.js.map",
+    "static/css/2.c5403167.chunk.css": "/Bosta/static/css/2.c5403167.chunk.css",
+    "static/js/2.745e4f15.chunk.js": "/Bosta/static/js/2.745e4f15.chunk.js",
+    "static/js/2.745e4f15.chunk.js.map": "/Bosta/static/js/2.745e4f15.chunk.js.map",
+    "static/js/3.3e9aaf0f.chunk.js": "/Bosta/static/js/3.3e9aaf0f.chunk.js",
+    "static/js/3.3e9aaf0f.chunk.js.map": "/Bosta/static/js/3.3e9aaf0f.chunk.js.map",
+    "index.html": "/Bosta/index.html",
+    "static/css/2.c5403167.chunk.css.map": "/Bosta/static/css/2.c5403167.chunk.css.map",
+    "static/css/main.dd7e1c48.chunk.css.map": "/Bosta/static/css/main.dd7e1c48.chunk.css.map",
+    "static/js/2.745e4f15.chunk.js.LICENSE.txt": "/Bosta/static/js/2.745e4f15.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Bosta/static/media/Cairo-Bold.42ec956b.ttf",
+    "static/media/bosta_logo_ar_red.26249744.svg": "/Bosta/static/media/bosta_logo_ar_red.26249744.svg",
+    "static/media/bosta_logo_ar_white.1df34a7a.svg": "/Bosta/static/media/bosta_logo_ar_white.1df34a7a.svg",
+    "static/media/bosta_logo_en_red.c0e658a4.svg": "/Bosta/static/media/bosta_logo_en_red.c0e658a4.svg",
+    "static/media/bosta_logo_en_white.3d8f526b.svg": "/Bosta/static/media/bosta_logo_en_white.3d8f526b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fb5030f.js",
+    "static/css/2.c5403167.chunk.css",
+    "static/js/2.745e4f15.chunk.js",
+    "static/css/main.dd7e1c48.chunk.css",
+    "static/js/main.b4e6a67a.chunk.js"
+  ]
+}
