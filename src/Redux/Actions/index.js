@@ -1,3 +1,2 @@
 export * from "./GeneralAction";
-export * from "./CategoryActions";
-export * from "./ProductActions";
+export * from "./ShipmentActions";

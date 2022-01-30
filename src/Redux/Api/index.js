@@ -2,9 +2,9 @@ import axios from "axios";
 
 export const Request = () => {
   return axios.create({
-    baseURL: "https://test-api.edfa3ly.io",
+    baseURL: "https://tracking.bosta.co",
     headers: {
-      contentType: "application/json",
+      // contentType: "application/json",
     },
   });
 };

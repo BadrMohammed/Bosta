@@ -1,8 +1,5 @@
 import { combineReducers } from "redux";
-import CategoryR from "./CategoryR";
-import ProductR from "./ProductR";
-
+import ShipmentR from "./ShipmentR";
 export default combineReducers({
-  CategoryR,
-  ProductR,
+  ShipmentR,
 });
